@@ -219,5 +219,6 @@ window.addEventListener('load', function () {
         a.download = fileName;
         a.dispatchEvent(event);
     }
+    
 
 });
