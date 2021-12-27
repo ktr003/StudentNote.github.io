@@ -219,11 +219,6 @@ window.addEventListener('load', function () {
         a.download = fileName;
         a.dispatchEvent(event);
     }
-    function onButtonClick(){
-        var URL = 'https://ktr003.github.io/note2348.github.io/#&togetherjs=kqyhLSd8TK';
-        var Name = 'Share';
-        var Features = 'top=50,width=400,height=300';
-        window.open(URL,Name,Features);
-}
+    
 
 });
